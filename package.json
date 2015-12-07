@@ -1,0 +1,17 @@
+{
+  "name": "@micro-js/keychord",
+  "description": "Takes in a keypress/keydown/keyup event and returns a chord striE.g. &#x27;ctrl+shift+t&#x27;",
+  "repository": "git://github.com/micro-js/keychord.git",
+  "version": "0.1.0",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "scripts": {
+    "postversion": "git push && git push --tags && npm publish --access=public"
+  },
+  "dependencies": {
+    "@micro-js/keycodes": "^1.0.0"
+  },
+  "devDependencies": {
+    "tape": "^4.2.2"
+  }
+}
