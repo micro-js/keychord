@@ -2,7 +2,7 @@
   "name": "@micro-js/keychord",
   "description": "Takes in a keypress/keydown/keyup event and returns a chord striE.g. &#x27;ctrl+shift+t&#x27;",
   "repository": "git://github.com/micro-js/keychord.git",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
