@@ -6,7 +6,7 @@
 [![NPM version][npm-image]][npm-url]
 [![Code style][standard-image]][standard-url]
 
-Takes in a keypress/keydown/keyup event and returns a chord striE.g. &#x27;ctrl+shift+t&#x27;
+Takes in a keypress/keydown/keyup event and returns a chord string. E.g. &#x27;ctrl+shift+t&#x27;
 
 ## Installation
 
